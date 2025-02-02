@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@sky-mavis/mavis-market-core": "^0.0.2",
+    "axios": "^1.7.4",
+    "discord.js": "^14.15.3",
+    "ethers": "5.7.2"
+  },
+  "type": "module"
+}
